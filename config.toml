@@ -21,8 +21,8 @@ theme = "forty"
             url = "posts/cool-cook"
 
         [[params.navigation.links]]
-            name = "Stab Project"
-            url = "#"
+            name = "V Gather"
+            url = "posts/v-gather"
 
         [[params.navigation.links]]
             name = "Stab Project"
@@ -31,25 +31,25 @@ theme = "forty"
     [params.banner]
         title = "Hi, my name is Huang Zeyu."
         subtitle = """Welcome to my personal portfolio page.
-        In Chinese, surname comes first. You can call me Zeyu."""
+        Surnames come first in Chinese, so you can call me Zeyu."""
 
     [params.tiles]
         enable = true
         [[params.tiles.showcase]]
-            title = "Yu - app prototype"
-            subtitle = "An app prototype that makes it easier to teach your grandma how to use a smartphone, without losing your sanity"
+            title = "Yu - mobile app prototype"
+            subtitle = "An app prototype that makes it easier to teach your grandma how to use a smartphone, without losing your sanity."
             image = "yu.png"
             url = "https://medium.com/@huang.zeyu/course-project-an-app-prototype-that-makes-it-easier-to-teach-your-grandma-how-to-use-a-d512dfff0e0f"
         [[params.tiles.showcase]]
             title = "Cool Cook - chatbot prototype"
-            subtitle = "A chatbot prototype that guides you through a cooking workflow that makes the most sense"
+            subtitle = "A chatbot prototype that guides you through a cooking workflow that makes the most sense."
             image = "coolcook.png"
             url = "posts/cool-cook"
         [[params.tiles.showcase]]
-            title = "Stab Project"
-            subtitle = "Coming soon..."
-            image = "pic2.jpg"
-            url = "#"
+            title = "V Gather - VR app prototype"
+            subtitle = "A social VR prototype that 🔥 online 🧊-breaking events with liveliness."
+            image = "v-gather.jpg"
+            url = "posts/v-gather"
         [[params.tiles.showcase]]
             title = "Stab Project"
             subtitle = "Coming soon..."

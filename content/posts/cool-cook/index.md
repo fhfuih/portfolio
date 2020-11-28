@@ -14,9 +14,9 @@ A chatbot prototype that guides you through a cooking workflow that makes the mo
 from words-and-pictures to videos. But are they truly helpful once we pick up the spatula and turn on the fire?
 At least for newbies, it is easy to get nervous hearing the buzzing of the oven, and forget about everything.
 That's why a more user-friendly form of cooking tutorials is needed. Hence, we have designed Cool Cook,
-a chatbot that assist the user in cooking an entire meal from the chooing of dishes to buying the ingredients
+a chatbot that assist the user in cooking an entire meal from the choosing of dishes to buying the ingredients
 and to instruct the user to cook correctly step-by-step. During the instruction, the chatbot will take the time needed
-for each step of each dish into account, and help the user cook all the dishes in parallel in an elegent arrangement.
+for each step of each dish into account, and help the user cook all the dishes in parallel in an elegant arrangement.
 
 ## Emphasis
 
@@ -30,7 +30,7 @@ and it lacks portability.
 #### Videos
 
 A cooking video is easy to find on online video platforms. However, we have noted that most of the videos are intended
-for the audience to appreciate the cookking process rather than to learn themselves. These videos are more elaborated in
+for the audience to appreciate the cooking process rather than to learn themselves. These videos are more elaborated in
 the shooting techniques and the artistic expressions rather than the comprehensiveness of the information.
 
 Plus, the elderly are less familiar with online video platforms.
@@ -41,7 +41,7 @@ To locate the problems the cooking newbies face when following the online tutori
 interviews. Below are the pain points our interviewees have raised up during the interviews.
 
 1. They find it hard to organize the time when they need to cook several dishes at the same time.
-And this is a common case when they need to perpare for an entire meal.
+And this is a common case when they need to prepare for an entire meal.
 2. Details are more or less omitted in many tutorials, depending on how professional the authors are.
 Newbies may struggle when they are instructed to add "a proper amount of" some ingredients.
 This situation is especially common when cooking Chinese dishes.
