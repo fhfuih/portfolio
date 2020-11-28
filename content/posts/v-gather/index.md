@@ -8,15 +8,15 @@ A social VR product prototype that kindles ice-breaking events with liveliness.
 
 {{< figure src="v-gather.jpg" alt="V Gather Artwork" >}}
 
-## Introduction
+## Project Info
 
-We have been required to use [Mozilla Hubs](https://hubs.mozilla.com/) to hold meetings for all of our course projects. In this project, we need to reflect on our experiences with Mozilla Hubs and focus on one of the three topics:
+This is the third project of COMP4461: Human-Computer Interaction at the Hong Kong University of Science and Technology. Previously in this course, we are required to [Mozilla Hubs](https://hubs.mozilla.com/) to hold meetings for all of our course projects. And for this project, we are assigned the theme of Social VR. We need to reflect on our experiences with Mozilla Hubs and focus on one of the three topics:
 
 1. Improving Social VR experiences for future group collaborations
 2. Designing Social VR experiences for some other future scenario
 3. Proposing a better alternative solution to Social VR for a given scenario
 
-And this is how we end up with V Gather, a Social VR solution for online ice-breaking and gathering events that maximizes liveliness and minimize awkwardness.
+Looking at the third topic, we end up with V Gather, our Social VR solution for online ice-breaking and gathering events that maximizes liveliness and minimize awkwardness.
 
 ## Qualitative Analysis
 
@@ -125,6 +125,6 @@ The interviewees also pointed out something we can improve. A third person's vie
 
 {{< youtube 1Vcpl_dP3iU >}}
 
-## Reflection
+## Personal Reflections
 
 Personally, I have taken part in the ideation stage and the in-class presentation, including making the slides. It is inspiring to have collected all the parts of the work done by our group mates and sort them out. Since we are required to use Mozilla Hubs to hold group meetings for the entire semester, it is quite easy for us to conduct heuristic studies and propose many ideas at the beginning. (Of course we also swore a lot about the bad experience of the Hubs LOL.) We realized that it is important to analyze the core and irreplaceable features of a product before we target to, or use it in, a specific scenario. Up till today, VR is not the solution to everything, but its huge potential is undeniable. Therefore, we have gone through careful discussions on how the attributes of VR technology can benefit an online gathering event, and such a thinking process is very important in designing a product.

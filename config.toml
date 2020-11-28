@@ -13,20 +13,24 @@ theme = "forty"
         menu = "Menu"
 
         [[params.navigation.links]]
-            name = "Yu"
-            url = "https://medium.com/@huang.zeyu/course-project-an-app-prototype-that-makes-it-easier-to-teach-your-grandma-how-to-use-a-d512dfff0e0f"
+            name = "V Gather"
+            url = "posts/v-gather"
 
         [[params.navigation.links]]
             name = "Cool Cook"
             url = "posts/cool-cook"
 
         [[params.navigation.links]]
-            name = "V Gather"
-            url = "posts/v-gather"
+            name = "Yu"
+            url = "posts/yu"
 
         [[params.navigation.links]]
-            name = "Stab Project"
-            url = "#"
+            name = "HKUST Course Monitor"
+            url = "https://ustcourse.me/"
+
+        [[params.navigation.links]]
+            name = "UST::parser"
+            url = "https://zhuangbi.student.ust.hk/"
 
     [params.banner]
         title = "Hi, my name is Huang Zeyu."
@@ -36,25 +40,30 @@ theme = "forty"
     [params.tiles]
         enable = true
         [[params.tiles.showcase]]
-            title = "Yu - mobile app prototype"
-            subtitle = "An app prototype that makes it easier to teach your grandma how to use a smartphone, without losing your sanity."
-            image = "yu.png"
-            url = "https://medium.com/@huang.zeyu/course-project-an-app-prototype-that-makes-it-easier-to-teach-your-grandma-how-to-use-a-d512dfff0e0f"
-        [[params.tiles.showcase]]
-            title = "Cool Cook - chatbot prototype"
-            subtitle = "A chatbot prototype that guides you through a cooking workflow that makes the most sense."
-            image = "coolcook.png"
-            url = "posts/cool-cook"
-        [[params.tiles.showcase]]
             title = "V Gather - VR app prototype"
             subtitle = "A social VR prototype that 🔥 online 🧊-breaking events with liveliness."
             image = "v-gather.jpg"
             url = "posts/v-gather"
         [[params.tiles.showcase]]
-            title = "Stab Project"
-            subtitle = "Coming soon..."
-            image = "pic3.jpg"
-            url = "#"
+            title = "Cool Cook - chatbot prototype"
+            subtitle = "A chatbot prototype that guides you through a cooking workflow that makes the most sense."
+            image = "coolcook.jpg"
+            url = "posts/cool-cook"
+        [[params.tiles.showcase]]
+            title = "Yu - mobile app prototype"
+            subtitle = "An app prototype that makes it easier to teach your grandma how to use a smartphone, without losing your sanity."
+            image = "yu.jpg"
+            url = "posts/yu"
+        [[params.tiles.showcase]]
+            title = "HKUST Course Monitor"
+            subtitle = "A scraper & visualizer of the course quota changes at HKUST during previous add-drop periods"
+            image = "course-monitor.jpg"
+            url = "https://ustcourse.me/"
+        [[params.tiles.showcase]]
+            title = "UST::parser"
+            subtitle = "Yet another elegant navigation page for HKUST students"
+            image = "ust-parser.jpg"
+            url = "https://zhuangbi.student.ust.hk/"
     # [params.two]
     #     enable = true
     #     title = "Massa libero"
