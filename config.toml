@@ -1,4 +1,4 @@
-baseURL = "http://zhuangbi.student.ust.hk/portfolio/"
+baseURL = "//zhuangbi.student.ust.hk/portfolio/"
 languageCode = "en-us"
 title = "HUANG Zeyu's Personal Portfolio"
 theme = "forty"
